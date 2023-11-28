@@ -1,0 +1,238 @@
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\leesg\Desktop\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\leesg\Desktop\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.MDIForm.resources
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.AdminForm.resources
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.MainForm.resources
+C:\Users\leesg\Desktop\23134\팀플\TeamProject\TeamProject\obj\Debug\TeamProject.test.resources
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.AdminForm.resources
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.MainForm.resources
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.test.resources
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\23134\팀플 - 복사본\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.AdminForm.resources
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.MainForm.resources
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.TestForm.resources
+C:\Users\leesg\Desktop\23134\팀플최신\TeamProject\TeamProject\obj\Debug\TeamProject.RecycleBinForm.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.AdminForm.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.MainForm.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.RecycleBinForm.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.TestForm.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.InquiryAdminForm.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.InquriyUserForm.resources
+C:\Users\User\Desktop\팀플 (2023-11-18)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.AdminForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.InquiryAdminForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.MainForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.MypageForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.RecycleBinForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.TestForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\leesg\Desktop\팀플 (2023-11-21)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.AdminForm.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.InquiryAdminForm.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.MainForm.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.MypageForm.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.RecycleBinForm.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.TestForm.resources
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\23134\팀플 백업\5\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.InquriyUserForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.AdminForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.InquiryAdminForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.InquriyUserForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.MainForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.MypageForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.RecycleBinForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.TestForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.AdminForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.InquiryAdminForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.InquriyUserForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.MainForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.MypageForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.RecycleBinForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.TestForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\팀플 (2023-11-22)\팀플 (2023-11-22)\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.AdminForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.InquiryAdminForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.InquriyUserForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.MainForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.MypageForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.RecycleBinForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.TestForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\bin\Debug\TeamProject.exe.config
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\bin\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\bin\Debug\TeamProject.pdb
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\bin\Debug\Oracle.DataAccess.dll
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.AssemblyReference.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.AdminForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.AgreementForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.Form1.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.InquiryAdminForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.InquriyUserForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.LoginForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.MainForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.MypageForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.Properties.Resources.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.RecycleBinForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.SignUpForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.TestForm.resources
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.GenerateResource.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CoreCompileInputs.cache
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.csproj.CopyComplete
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.exe
+C:\Users\leesg\Desktop\팀플 (2023-11-23)\TeamProject\TeamProject\obj\Debug\TeamProject.pdb

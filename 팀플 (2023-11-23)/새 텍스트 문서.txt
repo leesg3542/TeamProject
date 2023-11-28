@@ -1,0 +1,65 @@
+drop table USERINFO purge
+drop table Orders purge
+drop table ADMININFO;
+
+create table USERINFO (
+userId varchar(20) not null primary key,
+password varchar(20) not null,
+name varchar(20),
+phone varchar(20),
+address varchar(50),
+email varchar(30),
+SignUpDate DATE
+);
+
+
+create table Orders(
+orderId varchar(20) not null primary key,
+DeliveryAddress varchar(20) not null,
+OrderStatus varchar(20),
+TotalAmount number,
+userId varchar(20) not null,
+foreign key (userId) references USERINFO(userId)
+);
+
+insert into Orders values('1000', '경기도 고양시', '배달중', '10000', 'leesg3542');
+insert into Orders values('1001', '경기도 고양시', '배달중', '15000', 'leesg3542');
+insert into Orders values('1002', '경기도 부천시', '배달완료', '35000', 'hong1');
+insert into Orders values('1003', '경기도 부천시', '배달완료', '27000', 'hong1');
+
+insert into Orders values('1004', '인천', '배달완료', '21000', '테스트1');
+insert into Orders values('1005', '강남', '배달완료', '2000', '테스트1');
+insert into Orders values('1006', '강북', '배달완료', '31000', '테스트1');
+
+
+SELECT * FROM Orders;
+SELECT * FROM USERINFO;
+
+SELECT * FROM ORDERS WHERE userId = 'leesg3542';
+
+create table RecycleBin(
+recordId varchar(20) not null,
+tablename varchar(50) not null,
+columnName varchar(50) not null,
+columValue varchar(100),
+actionType varchar(10) not null,
+actionDate timestamp default current_timestamp,
+primary key (recordId, actionDate)
+);
+
+create table adminInfo(
+adminId varchar(20) not null primary key,
+aPassword varchar(20) not null,
+aName varchar(20),
+aPhone varchar(20)
+);
+
+insert into adminInfo values('admin1', '1q2w3e4r', '관리자', '010-4567-8910');
+
+create table DRIVERINFO(
+driverid varchar(20) not null primary key,
+Dpassword varchar(20) not null,
+Demail varchar(20),
+Dname varchar(20),
+Dphone varchar(20)
+);

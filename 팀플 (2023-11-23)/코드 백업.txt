@@ -1,0 +1,357 @@
+class DBClass
+    {
+        private OracleConnection connection;
+
+        public DBClass()
+        {
+            string connectionString = "User Id=hong1; Password=1111; Data Source=(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = localhost)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = xe) ) );";
+            connection = new OracleConnection(connectionString);
+        }
+
+
+
+        public bool ConnectToDatabase()
+        {
+            try
+            {
+                connection.Open();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("DB 연결 오류: " + ex.Message);
+                return false;
+            }
+        }
+
+        public bool AuthenticateUser(string userId, string password)
+        {
+            try
+            {
+                string query = "SELECT COUNT(*) FROM USERINFO WHERE UserId = :UserId AND Password = :Password";
+
+                using (OracleCommand command = new OracleCommand(query, connection))
+                {
+                    command.Parameters.Add(":UserId", OracleDbType.Varchar2).Value = userId;
+                    command.Parameters.Add(":Password", OracleDbType.Varchar2).Value = password;
+
+                    int count = Convert.ToInt32(command.ExecuteScalar());
+
+                    return count > 0;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("인증 오류: " + ex.Message);
+                return false;
+            }
+        }
+
+        public bool AuthenticateAdmin(string adminId, string aPassword)
+        {
+            try
+            {
+                string query = "SELECT COUNT(*) FROM ADMININFO WHERE AdminId = :AdminId AND APassword = :APassword";
+
+                using (OracleCommand command = new OracleCommand(query, connection))
+                {
+                    command.Parameters.Add(":AdminId", OracleDbType.Varchar2).Value = adminId;
+                    command.Parameters.Add(":APassword", OracleDbType.Varchar2).Value = aPassword;
+
+                    int count = Convert.ToInt32(command.ExecuteScalar());
+
+                    return count > 0;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("인증 오류: " + ex.Message);
+                return false;
+            }
+        }
+
+        public bool CheckDuplicateUserId(string userId)
+        {
+            try
+            {
+                string query = "SELECT COUNT(*) FROM USERINFO WHERE UserId = :UserId";
+
+                using (OracleCommand command = new OracleCommand(query, connection))
+                {
+                    command.Parameters.Add(":UserId", OracleDbType.Varchar2).Value = userId;
+
+                    int count = Convert.ToInt32(command.ExecuteScalar());
+
+                    return count > 0;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("중복 체크 오류: " + ex.Message);
+                return false;
+            }
+        }
+
+
+        public bool RegisterUser(string userId, string password, string name, string phone, string address, string email)
+        {
+            try
+            {
+                string query = "INSERT INTO USERINFO (UserId, Password, Name, Phone, Address, Email, SignUpDate) VALUES (:UserId, :Password, :Name, :Phone, :Address, :Email, :SignUpDate)";
+
+                using (OracleCommand command = new OracleCommand(query, connection))
+                {
+                    command.Parameters.Add(":UserId", OracleDbType.Varchar2).Value = userId;
+                    command.Parameters.Add(":Password", OracleDbType.Varchar2).Value = password;
+                    command.Parameters.Add(":Name", OracleDbType.Varchar2).Value = name;
+                    command.Parameters.Add(":Phone", OracleDbType.Varchar2).Value = phone;
+                    command.Parameters.Add(":Adress", OracleDbType.Varchar2).Value = address;
+                    command.Parameters.Add(":Email", OracleDbType.Varchar2).Value = email;
+                                    
+                    
+                    // SignUpDate에 현재 날짜와 시간을 넣어줍니다.
+                    command.Parameters.Add(":SignUpDate", OracleDbType.Date).Value = DateTime.Now;
+
+                    int rowsInserted = command.ExecuteNonQuery();
+
+                    return rowsInserted > 0;
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("회원가입 오류: " + ex.Message);
+                return false;
+            }
+        }
+
+        public void DisconnectFromDatabase()
+        {
+            if (connection.State == ConnectionState.Open)
+                connection.Close();
+        }
+    }
+}
+
+
+
+
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Oracle.DataAccess.Client;
+
+namespace TeamProject
+{
+    public partial class Form1 : Form
+    {
+        public Form1()
+        {
+            InitializeComponent();
+
+        }
+
+        private void LoginButton_Click(object sender, EventArgs e)
+        {
+            LoginForm loginForm = new LoginForm();
+            loginForm.ShowDialog();
+
+            if (loginForm.LoginSuccess)
+            {
+                MessageBox.Show("로그인 성공!");
+            }
+        }
+
+        private void signUpButton_Click(object sender, EventArgs e)
+        {
+            SignUpForm signUpForm = new SignUpForm();
+            signUpForm.ShowDialog();
+        }
+
+    }
+}
+
+
+
+// LoginForm
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string connectionString = "User Id=hong1; Password=1111; Data Source=(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = localhost)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = xe) ) );";
+            using (OracleConnection connection = new OracleConnection(connectionString))
+            {
+                connection.Open();
+
+                string query = "SELECT COUNT(*) FROM USERINFO WHERE UserId = :UserId AND Password = :Password";
+
+                using (OracleCommand command = new OracleCommand(query, connection))
+                {
+                    command.Parameters.Add(":UserId", OracleDbType.Varchar2).Value = txtid.Text;
+                    command.Parameters.Add(":Password", OracleDbType.Varchar2).Value = txtpswd.Text;
+
+                    int count = Convert.ToInt32(command.ExecuteScalar());
+
+                    if (count > 0)
+                    {
+                        LoginSuccess = true;
+                        this.Close();
+                    }
+                    else
+                    {
+                        LoginSuccess = false;
+                        MessageBox.Show("아이디/패스워드가 틀렸습니다.");
+                    }
+                }
+            }
+        }
+    }
+}
+
+
+
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Oracle.DataAccess.Client;
+
+namespace TeamProject
+{
+    public partial class Form1 : Form
+    {
+        private GroupBox loginGroup;
+        private TextBox loggedInTextBox;
+        private Button logoutButton;
+
+        public Form1()
+        {
+            InitializeComponent();
+        }
+
+
+        private void LoginButton_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void LoginButton_Click_1(object sender, EventArgs e)
+        {
+            LoginForm loginForm = new LoginForm();
+            loginForm.ShowDialog();
+
+            if (loginForm.LoginSuccess)
+            {
+                if (loggedInTextBox == null)
+                {
+                    loggedInTextBox = new TextBox();
+                    loggedInTextBox.ReadOnly = true;
+                    loggedInTextBox.Location = new Point(16, 29);
+                    this.Controls.Add(loggedInTextBox);
+                }
+
+                loggedInTextBox.Text = "ID : " + loginForm.LoggedInUserId;
+                loggedInTextBox.Visible = true;
+
+                if (logoutButton == null)
+                {
+                    logoutButton = new Button();
+                    logoutButton.Text = "로그아웃";
+                    logoutButton.Location = new Point(116, 29);
+                    logoutButton.Click += LogoutButton_Click;
+                    this.Controls.Add(logoutButton);
+                }
+
+                logoutButton.Visible = true;
+
+                LoginButton.Visible = false;
+                SignUpButton.Visible = false;
+
+                MessageBox.Show("로그인 성공!");
+            }      
+        }
+
+        private void SignUpButton_Click(object sender, EventArgs e)
+        {
+            SignUpForm signUpForm = new SignUpForm();
+            signUpForm.ShowDialog();
+        }
+
+        private void LogoutButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("로그아웃 되었습니다.");
+
+            loggedInTextBox.Visible = false;
+            logoutButton.Visible = false;
+
+            LoginButton.Visible = true;
+            SignUpButton.Visible = true;
+        }
+    }
+}
+
+//SignUpForm
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Oracle.DataAccess.Client;
+
+
+namespace TeamProject
+{
+    public partial class SignUpForm : Form
+    {
+        public SignUpForm()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            string connectionString = "User Id=hong1; Password=1111; Data Source=(DESCRIPTION = (ADDRESS = (PROTOCOL = TCP)(HOST = localhost)(PORT = 1521)) (CONNECT_DATA = (SERVER = DEDICATED) (SERVICE_NAME = xe) ) );";
+            using (OracleConnection connection = new OracleConnection(connectionString))
+            {
+                connection.Open();
+
+                string query = "INSERT INTO USERINFO (UserId, Password, Email, Name, Phone) VALUES (:UserId, :Password, :Email, :Name, :Phone)";
+
+                using (OracleCommand command = new OracleCommand(query, connection))
+                {
+                    command.Parameters.Add(":UserId", OracleDbType.Varchar2).Value = txtid.Text;
+                    command.Parameters.Add(":Password", OracleDbType.Varchar2).Value = txtpswd.Text;
+                    command.Parameters.Add(":Email", OracleDbType.Varchar2).Value = txtemail.Text;
+                    command.Parameters.Add(":Name", OracleDbType.Varchar2).Value = txtname.Text;
+                    command.Parameters.Add(":Phone", OracleDbType.Varchar2).Value = txtphone.Text;
+
+                    int rowsInserted = command.ExecuteNonQuery();
+
+                    if (rowsInserted > 0)
+                    {
+                        MessageBox.Show("회원가입 완료");
+                        this.Close();
+                    }
+                    else
+                    {
+                        MessageBox.Show("회원가입 실패");
+                    }
+                }
+            }
+        }
+    }
+}
+
